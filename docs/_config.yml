@@ -2,5 +2,7 @@ theme: jekyll-theme-cayman
 
 title: PUBG BP farming bot
 
+google_analytics: UA-115862300-1
+
 plugins:
   - jekyll-seo-tag
